@@ -5,5 +5,5 @@
 
 Haskell/Miso web app and formal lanugages/theoretical computer science playground.
 
-To be deployed on Firebase soon.
+Deployed on Firebase [https://context-free-fun.firebaseapp.com]
 
